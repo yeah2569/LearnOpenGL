@@ -3,4 +3,4 @@ LearnOpenGL
 
 OpenGL learning
 
-Env:ubuntu 14.04 LTS + QT
+Env:ubuntu 14.04 LTS + QT5.1.3
