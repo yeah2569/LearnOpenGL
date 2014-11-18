@@ -1,0 +1,3 @@
+﻿  Demo.cpp
+f:\workspace\win32opengl\demo\demo.cpp(69): warning C4101: “nNow”: 未引用的局部变量
+  Demo.vcxproj -> F:\workspace\Win32OpenGL\Demo\Debug\Demo.exe
